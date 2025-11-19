@@ -1,1 +1,1 @@
-# Bank-Failure-Risk-Prediction-Stress-Testing-Model
+# Bank-Failure-Risk-Model
